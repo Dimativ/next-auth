@@ -15,7 +15,7 @@
 
 # production
 /build
-/idea
+/.idea
 .env
 .env.local
 
